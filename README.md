@@ -12,10 +12,10 @@ Current version
 ## FEATURES ROADMAP
 |#| Feature | Status |
 |---|---|---|
-|1. |Serve Vector or \*.pbf as server 1st class citizen |[WIP] |
+|1. |Serve Vector Map Tile (*.mvt) as \*.pbf as server 1st class citizen |[WIP] |
 |2. |Tile Map Server | [WIP] |
-|3. |OSM Data Provider | [WIP] |
-|4. |OSM Vector Data Processing  | [WIP] |
+|3. |OSM/MVT Data Provider | [WIP] |
+|4. |OSM Vector Data Processing (convert OSM pbf into *.mvt tiles) | [WIP] |
 |5. |Vector Tile Map Support | [WIP] |
 |6. |Raster Tile Map support | [PLAN] |
 |7. |Geotiff import feature (tiling import & processing) | [PLAN]|

@@ -3,7 +3,7 @@ Nativerma Map Server
 
 is a Cross-platform next generation
 Tile Map Server support vector &amp; raster image with easy to manage API.  
-Build on top .Net Core 6.0  
+Build on top .Net 6.0  
 
 ## RELEASE STATUS
 Current version 
